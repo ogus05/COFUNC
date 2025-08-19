@@ -1,0 +1,15 @@
+fn_py_dna_visualisation 10
+fn_js_thumbnailer 20
+fn_js_uploader 20
+fn_js_dynamic_html 20
+fn_js_auth 20
+fn_js_encrypt 20
+chain_js_alexa/fn_js_alexa_frontend 20
+chain_js_alexa/fn_js_alexa_interact 20
+chain_js_alexa/fn_js_alexa_smarthome 20
+chain_js_alexa/fn_js_alexa_tv 20
+chain_js_data_analysis/fn_js_wage_analysis_merit_percent 20
+chain_js_data_analysis/fn_js_wage_analysis_realpay 20
+chain_js_data_analysis/fn_js_wage_analysis_result 20
+chain_js_data_analysis/fn_js_wage_analysis_total 20
+chain_js_data_analysis/fn_js_wage_fillup 20
